@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalExchangeService", "DigitalExchangeService\DigitalExchangeService.csproj", "{3FCA29A2-EB26-4F51-90EA-EDB1CFB865DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalExchangeTests", "DigitalExchangeTests\DigitalExchangeTests\DigitalExchangeTests.csproj", "{55934FE7-D05A-45AF-A4BB-8F38D76BF8B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FCA29A2-EB26-4F51-90EA-EDB1CFB865DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FCA29A2-EB26-4F51-90EA-EDB1CFB865DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FCA29A2-EB26-4F51-90EA-EDB1CFB865DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FCA29A2-EB26-4F51-90EA-EDB1CFB865DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55934FE7-D05A-45AF-A4BB-8F38D76BF8B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55934FE7-D05A-45AF-A4BB-8F38D76BF8B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55934FE7-D05A-45AF-A4BB-8F38D76BF8B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55934FE7-D05A-45AF-A4BB-8F38D76BF8B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
